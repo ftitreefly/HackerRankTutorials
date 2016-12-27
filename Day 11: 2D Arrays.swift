@@ -57,3 +57,8 @@ func day11() {
     
     print(max)
 }
+
+day11()
+
+//  https://www.hackerrank.com/challenges/30-2d-arrays
+//  https://github.com/raywenderlich/swift-algorithm-club/tree/master/Array2D
